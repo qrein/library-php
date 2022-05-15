@@ -1,0 +1,38 @@
+th, td {
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	font-family: Trebuchet MS;
+}
+
+th {
+	background: #F4A460; 
+	color: white;
+}
+
+td {
+	background: #F5DEB3;
+}
+
+a {
+	text-decoration: none;
+}
+
+a.update {
+	color: blue;
+}
+
+a.delete {
+	color: #8B0000;
+}
+
+a.oc {
+	color: green;
+}
+
+table {
+	padding: 20px;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
